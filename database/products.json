@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Olma",
+    "count": 0,
+    "buyPrice": 20000,
+    "sellPrice": 25000
+  },
+  {
+    "id": 2,
+    "name": "shaftoli",
+    "count": 15,
+    "buyPrice": 20000,
+    "sellPrice": 25000
+  }
+]

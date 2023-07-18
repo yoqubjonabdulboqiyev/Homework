@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Olma",
+    "count": 25,
+    "buyPrice": 20000,
+    "sellPrice": 25000,
+    "status": "buy",
+    "date": "2023-07-18T14:38:09.352Z"
+  },
+  {
+    "name": "Olma",
+    "count": 25,
+    "buyPrice": 20000,
+    "sellPrice": 25000,
+    "status": "sell",
+    "date": "2023-07-18T14:38:21.507Z"
+  },
+  {
+    "name": "shaftoli",
+    "count": 25,
+    "buyPrice": 20000,
+    "sellPrice": 25000,
+    "status": "buy",
+    "date": "2023-07-18T14:38:50.453Z"
+  },
+  {
+    "name": "shaftoli",
+    "count": 10,
+    "buyPrice": 20000,
+    "sellPrice": 25000,
+    "status": "sell",
+    "date": "2023-07-18T14:39:12.446Z"
+  }
+]
